@@ -6,6 +6,11 @@ The dataset used in this project is imported from a CSV file, which was publicly
 
 ![image](https://user-images.githubusercontent.com/28703328/116040388-f8a76a00-a639-11eb-8ae1-01bdc57dae29.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/28703328/116040388-f8a76a00-a639-11eb-8ae1-01bdc57dae29.png" width="350">
+  <img src="https://user-images.githubusercontent.com/28703328/116040564-2d1b2600-a63a-11eb-8735-3f6e1b4e74f0.png" width="350">
+</p>
+
 ![image](https://user-images.githubusercontent.com/28703328/116040564-2d1b2600-a63a-11eb-8735-3f6e1b4e74f0.png)
 
 # Source of Dataset
